@@ -10,7 +10,7 @@
 
 ### Tabela de Conteúdos
 * [Sobre o Projeto](#-sobre-o-projeto)
-* [✨ Features](#-features)
+* [✨ Funcionalidades](#-funcionalidades)
 * [📸 Screenshot](#-screenshot)
 * [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
 * [🚀 Como Executar o Projeto](#-como-executar-o-projeto)
@@ -27,7 +27,7 @@ O foco foi aplicar conceitos fundamentais como a criação de componentes, estil
 
 ---
 
-### ✨ Features
+### ✨ Funcionalidades
 
 - **Interface de Usuário Moderna:** Design sofisticado com tema escuro de alto contraste para uma leitura confortável.
 - **Lista Dinâmica e Rolável:** Exibição de uma lista de filmes a partir de um arquivo de dados local, com rolagem vertical suave.
@@ -115,4 +115,3 @@ meu-catalogo-pessoal/
 Feito por **Thimotio Jeronimo**.
 
 
-## 🖼️ Screenshot do Aplicativo
