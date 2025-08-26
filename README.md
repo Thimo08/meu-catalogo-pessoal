@@ -9,7 +9,7 @@
 ---
 
 ### Tabela de Conteúdos
-* [Sobre o Projeto](#-sobre-o-projeto)
+* [📖 Sobre o Projeto](#-sobre-o-projeto)
 * [✨ Funcionalidades](#-funcionalidades)
 * [📸 Screenshot](#-screenshot)
 * [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
