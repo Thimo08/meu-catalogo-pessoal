@@ -11,7 +11,6 @@
 ### Tabela de Conteúdos
 * [📖 Sobre o Projeto](#-sobre-o-projeto)
 * [✨ Funcionalidades](#-funcionalidades)
-* [📸 Screenshot](#-screenshot)
 * [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
 * [🚀 Como Executar o Projeto](#-como-executar-o-projeto)
 * [📁 Estrutura de Arquivos](#-estrutura-de-arquivos)
