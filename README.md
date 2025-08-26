@@ -38,15 +38,6 @@ O foco foi aplicar conceitos fundamentais como a criação de componentes, estil
 
 ---
 
-### 📸 Screenshot
-
-Aqui está uma prévia de como o aplicativo se parece:
-
-![Screenshot do App](./assets/projeto.png)
-
-
----
-
 ### 🛠️ Tecnologias Utilizadas
 
 O projeto foi construído com as seguintes ferramentas e bibliotecas:
