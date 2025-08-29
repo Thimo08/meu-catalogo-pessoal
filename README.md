@@ -4,7 +4,7 @@
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Status do Projeto: 🏁 Concluído**
+**Status do Projeto: 🚧 Em Construção 🚧**
 
 ---
 
