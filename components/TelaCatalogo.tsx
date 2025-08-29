@@ -68,9 +68,7 @@ const TelaCatalogo = () => {
   );
 };
 
-// e) NOVOS ESTILOS
 const estilos = StyleSheet.create({
-  // ... (todos os estilos anteriores)
   containerPrincipal: { flex: 1, backgroundColor: '#121212' },
   cabecalho: { paddingVertical: 15, paddingHorizontal: 20, borderBottomWidth: 1, borderBottomColor: '#222' },
   containerTitulo: { flexDirection: 'row', alignItems: 'center', justifyContent: 'center' },
@@ -82,7 +80,6 @@ const estilos = StyleSheet.create({
   tituloFilme: { fontSize: 18, fontWeight: 'bold', color: '#FFC300', marginBottom: 8 },
   subtituloFilme: { fontSize: 14, color: '#B0B0B0', lineHeight: 21, marginBottom: 10 },
   
-  // NOVO ESTILO: Container para o rodapé do card (ano + botão)
   rodapeCard: {
     flexDirection: 'row',
     justifyContent: 'space-between',
@@ -95,7 +92,6 @@ const estilos = StyleSheet.create({
     color: '#888888',
     fontStyle: 'italic',
   },
-  // NOVO ESTILO: Botão de detalhes clicável
   botaoDetalhes: {
     padding: 8,
   },
