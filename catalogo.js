@@ -129,6 +129,6 @@ export default [
     "ano": 2019,
     "plataformas": ["Globoplay", "Telecine"],
     "imagemCapa": require('./assets/vai-que-cola.webp'),
-    "linkDetalhes": "https://www.themoviedb.org/movie/38700-bad-boys-for-life"
+    "linkDetalhes": "https://www.themoviedb.org/search/movie?query=Vai%20que%20Cola%202%3A%20O%20Come%C3%A7o"
   }
 ]
