@@ -61,5 +61,74 @@ export default [
     "plataformas": ["Netflix"],
     "imagemCapa": require('./assets/TD.webp'),
     "linkDetalhes": "https://www.themoviedb.org/movie/581600-spenser-confidential"
+  },
+  {
+    "id": 8,
+    "titulo": "Bad Boys para Sempre",
+    "subtitulo": "Um inimigo do passado de Mike ressurge para se vingar, forçando ele e seu parceiro Marcus, que está prestes a se aposentar, a se unirem para uma última e violenta caçada.",
+    "ano": 2020,
+    "plataformas": ["Google Play", "Prime Vídeo"],
+    "imagemCapa": require('./assets/BBFL.webp'),
+    "linkDetalhes": "https://www.themoviedb.org/movie/38700-bad-boys-for-life"
   }
-];
+  ,
+  {
+    "id": 9,
+    "titulo": "Vizinhos",
+    "subtitulo": "Um homem estressado se muda para o campo buscando paz, mas entra em guerra com seu vizinho barulhento e festeiro.",
+    "ano": 2022,
+    "plataformas": ["Netflix"],
+    "imagemCapa": require('./assets/Vizinhos.webp'),
+    "linkDetalhes": "https://www.themoviedb.org/movie/818502-vizinhos"
+  }
+  ,
+  {
+    "id": 10,
+    "titulo": "Amor Sem Medida",
+    "subtitulo": "Uma advogada se apaixona por um cardiologista, mas precisa superar o preconceito da sociedade e dela mesma por ele ser um homem de baixa estatura.",
+    "ano": 2021,
+    "plataformas": ["Netflix"],
+    "imagemCapa": require('./assets/amor sem medida.webp'),
+    "linkDetalhes": "https://www.themoviedb.org/movie/887645-amor-sem-medida"
+  }
+  ,
+  {
+    "id": 11,
+    "titulo": "O Candidato Honesto 2",
+    "subtitulo": "Após sair da prisão, o político João Ernesto é eleito presidente, mas uma nova crise de corrupção ameaça seu governo com um impeachment.",
+    "ano": 2018,
+    "plataformas": ["Netflix", "Prime Video", "Star+"],
+    "imagemCapa": require('./assets/candidato-honesto.webp'),
+    "linkDetalhes": "https://www.themoviedb.org/movie/541696-o-candidato-honesto-2"
+  }
+  ,
+  {
+    "id": 12,
+    "titulo": "Até Que a Sorte nos Separe 3: A Falência Final ",
+    "subtitulo": "Falido novamente, Tino precisa administrar as finanças da filha mimada de um milionário para pagar por um casamento de luxo.",
+    "ano": 2015,
+    "plataformas": ["Netflix", "Globoplay"],
+    "imagemCapa": require('./assets/Ate-que-a-sorte-nos-separe.webp'),
+    "linkDetalhes": "https://www.themoviedb.org/movie/324465-ate-que-a-sorte-nos-separe-3-a-falencia-final"
+  }
+  ,
+  {
+    "id": 13,
+    "titulo": "Minha Mãe é uma Peça 2: O Filme",
+    "subtitulo": "Dona Hermínia vira uma apresentadora de TV famosa, mas precisa lidar com a solidão da 'síndrome do ninho vazio' quando seus filhos saem de casa.",
+    "ano": 2016,
+    "plataformas": ["Globoplay", "Telecine"],
+    "imagemCapa": require('./assets/minha-mae-e-uma-peca.webp'),
+    "linkDetalhes": "https://www.themoviedb.org/movie/227932-minha-mae-e-uma-peca-2-o-filme"
+  }
+  ,
+  {
+    "id": 14,
+    "titulo": "Vai que Cola 2: O Começo",
+    "subtitulo": "Por causa de uma dívida perigosa de Terezinha com um bicheiro, os futuros moradores da pensão se unem pela primeira vez numa missão arriscada que dará início à sua família.",
+    "ano": 2019,
+    "plataformas": ["Globoplay", "Telecine"],
+    "imagemCapa": require('./assets/vai-que-cola.webp'),
+    "linkDetalhes": "https://www.themoviedb.org/movie/38700-bad-boys-for-life"
+  }
+]
